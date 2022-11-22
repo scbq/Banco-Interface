@@ -1,0 +1,8 @@
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\bin\Debug\ConInterfaces.exe.config
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\bin\Debug\ConInterfaces.exe
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\bin\Debug\ConInterfaces.pdb
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\obj\Debug\ConInterfaces.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\obj\Debug\ConInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\obj\Debug\ConInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\obj\Debug\ConInterfaces.exe
+C:\Users\valen\source\repos\SolAguileraFelipe\ConInterfaces\obj\Debug\ConInterfaces.pdb
